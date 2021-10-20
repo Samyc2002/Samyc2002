@@ -1,3 +1,3 @@
 # Samy
 
-This is a dummy change
+This is my first repo
