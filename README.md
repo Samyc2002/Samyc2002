@@ -24,7 +24,7 @@ I'm currently looking for new opportunities and my areas of interest are:
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=#092E20)
+![Django](https://img.shields.io/badge/Django-0769AD?style=for-the-badge&logo=django&logoColor=#092E20)
 ![Express.js](https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
