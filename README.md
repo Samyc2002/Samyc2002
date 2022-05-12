@@ -10,6 +10,7 @@ My name is Samriddha and I'm a full stack developer and designer (the later is m
 I'm currently looking for new opportunities and my areas of interest are:
 
 - Full Stack Web Development
+- React Native Development
 
 **Languages I use**
 
