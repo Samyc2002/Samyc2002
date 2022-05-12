@@ -28,7 +28,7 @@ I'm currently looking for new opportunities and my areas of interest are:
 ![Express.js](https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-- 🌱 I’m currently learning Mobile Development.
+- 🌱 I’m currently learning Web3.
 - 💬 Ask me about anything(as long as I'm allowed to Google it).
 - 😄 Pronouns: He/Him.
 
