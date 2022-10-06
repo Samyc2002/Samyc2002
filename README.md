@@ -107,26 +107,6 @@
 
 
 ## Github Stats  
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=samyc2002&show_icons=true&hide_border=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyc2002&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/samyc2002)
+<div align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=samyc2002&show_icons=true&hide_border=true" /> </div>
+<div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyc2002&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/samyc2002) </div>
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
