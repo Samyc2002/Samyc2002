@@ -106,4 +106,4 @@
 
 
 ## Github Stats  
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=samyc2002&show_icons=true&hide_border=true" />&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyc2002&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/samyc2002)
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=samyc2002&show_icons=true&hide_border=true" />&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyc2002&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/samyc2002)
