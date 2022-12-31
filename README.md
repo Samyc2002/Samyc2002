@@ -107,3 +107,7 @@
 
 ## Github Stats  
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=samyc2002&show_icons=true&hide_border=true" />&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyc2002&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/samyc2002)
+
+![](https://github-profile-trophy.vercel.app/?username=Samyc2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=Samyc0202&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
