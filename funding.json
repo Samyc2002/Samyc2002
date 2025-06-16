@@ -8,7 +8,8 @@
         "phone": "+91 9674950307",
         "description": "I am a solo developer who has been working on open-source projects for several years. My focus is on creating tools that enhance productivity and collaboration, and I love building interesting things that can help more people get better at software development.",
         "webpageUrl": {
-            "url": "https://samy-exe.netlify.app"
+            "url": "https://samy-exe.netlify.app",
+            "wellKnown": "https://samy-exe.netlify.app"
         }
     },
     "projects": [
@@ -17,10 +18,12 @@
             "name": "Github Wiki Generator",
             "description": "The Github Wiki Generator is a tool that simplifies the process of creating and managing wikis on GitHub. It provides a user-friendly interface and powerful features to enhance collaboration and documentation in GitHub projects",
             "webpageUrl": {
-                "url": "https://github.com/Samyc2002/GithubWikiGenerator"
+                "url": "https://github.com/Samyc2002/GithubWikiGenerator",
+                "wellKnown": "https://github.com/Samyc2002/GithubWikiGenerator"
             },
             "repositoryUrl": {
-                "url": "https://github.com/Samyc2002/GithubWikiGenerator"
+                "url": "https://github.com/Samyc2002/GithubWikiGenerator",
+                "wellKnown": "https://github.com/Samyc2002/GithubWikiGenerator"
             },
             "licenses": [
                 "MIT License"
@@ -91,6 +94,8 @@
             {
                 "year": 2024,
                 "income": 0,
+                "expenses": 0,
+                "taxes": 0,
                 "currency": "USD",
                 "description": "Started building the Github Wiki Generator project."
             }
