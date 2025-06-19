@@ -5,11 +5,10 @@
         "role": "maintainer",
         "name": "Samriddha Chattopadhyay",
         "email": "samriddhaworkid@gmail.com",
-        "phone": "+91 9674950307",
+        "phone": "+91-9674950307",
         "description": "I am a solo developer who has been working on open-source projects for several years. My focus is on creating tools that enhance productivity and collaboration, and I love building interesting things that can help more people get better at software development.",
         "webpageUrl": {
-            "url": "https://samy-exe.netlify.app",
-            "wellKnown": "https://samy-exe.netlify.app"
+            "url": "https://github.com/Samyc2002/Samyc2002/blob/master/README.md"
         }
     },
     "projects": [
@@ -19,11 +18,11 @@
             "description": "The Github Wiki Generator is a tool that simplifies the process of creating and managing wikis on GitHub. It provides a user-friendly interface and powerful features to enhance collaboration and documentation in GitHub projects",
             "webpageUrl": {
                 "url": "https://github.com/Samyc2002/GithubWikiGenerator",
-                "wellKnown": "https://github.com/Samyc2002/GithubWikiGenerator"
+                "wellKnown": "https://github.com/Samyc2002/GithubWikiGenerator/blob/main/.well-known/funding-manifest-urls"
             },
             "repositoryUrl": {
                 "url": "https://github.com/Samyc2002/GithubWikiGenerator",
-                "wellKnown": "https://github.com/Samyc2002/GithubWikiGenerator"
+                "wellKnown": "https://github.com/Samyc2002/GithubWikiGenerator/blob/main/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "MIT License"
@@ -46,7 +45,7 @@
             },
             {
                 "guid": "mypay",
-                "type": "paypal",
+                "type": "payment-provider",
                 "address": "https://www.paypal.me/Samyc2002",
                 "description": "Pay with your debit/credit card through this gateway and setup recurring subscriptions."
             }
